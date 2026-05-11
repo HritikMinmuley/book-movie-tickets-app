@@ -89,7 +89,21 @@ GET /tickets
 
 # 📸 Screenshots
 
-(Add screenshots here later)
+## Home Page
+
+![Home Page](./screenshots/home.png)
+
+---
+
+## Booking Section
+
+![Booking Section](./screenshots/booking.png)
+
+---
+
+## Last Booking Details
+
+![Last Booking](./screenshots/last-booking.png)
 
 ---
 
